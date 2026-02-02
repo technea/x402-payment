@@ -1,0 +1,36 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime files
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# npm cache (optional)
+.npm
+
+# ESLint cache (optional)
+.eslintcache
+
+# VS Code settings (optional)
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Build outputs
+dist/
+build/
